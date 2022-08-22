@@ -4,7 +4,7 @@ Emmanuel Bergerat
 Hi! I'm Emmanuel Bergerat.
 I’m a hands-on Cloud Architect & Engineer who enjoys coding & innovation with everything IT.
 I am a passionate learner.
-Few of these repositories share some of my learning examples.
+Few of these repositories share learning examples.
 
 Let's Connect
 -------------
