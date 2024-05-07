@@ -10,12 +10,12 @@
   - Azure DevOps (ADO) ([Azure DevOps](https://azure.microsoft.com/en-us/products/devops#overview))
   - terraform ([Terraform by HashiCorp](https://www.terraform.io/))
   - GitHub ([GitHub](https://github.com/))
+  - C# .NET core applications ([A tour of the C# language](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/))
+  - Containerized apps ([Docker overview](https://docs.docker.com/get-started/overview/))
 - I am a passionate learner.
 - Here are few of these repositories I share learning examples:
-  - 
-
-Let's Connect
--------------
+  - [My GitHub organization to share code and projects](https://github.com/embergershared)
+  - [My GitHub organization with work-in-progress terraform modules for Azure](https://github.com/embergertf)
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub Emmanuel" />](https://github.com/gopher194/)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/emmanuelbergerat/)
