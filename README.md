@@ -1,10 +1,18 @@
-# Emmanuel Bergerat
-==============
-
-Hi! I'm Emmanuel Bergerat.
-I’m a hands-on Technical Specialist at Microsoft who enjoys coding, learning & innovation with everything IT.
-I am a passionate learner.
-Few of these repositories share learning examples.
+### Hi! I'm Emmanuel Bergerat.
+- I’m a hands-on App Innovation Technical Specialist at Microsoft who enjoys coding, learning & innovation with everything IT.
+- Current top skills are around:
+  - Azure Kubernetes Service (AKS) ([AKS Overview](https://learn.microsoft.com/en-us/azure/aks/what-is-aks))
+  - Azure Container Apps (ACA) ([ACA Overview](https://learn.microsoft.com/en-us/azure/container-apps/overview))
+  - Private deployment in Azure of:
+    - Infrastructures
+    - Application Services
+    - Private Chat and AI
+  - Azure DevOps (ADO) ([Azure DevOps](https://azure.microsoft.com/en-us/products/devops#overview))
+  - terraform ([Terraform by HashiCorp](https://www.terraform.io/))
+  - GitHub ([GitHub](https://github.com/))
+- I am a passionate learner.
+- Here are few of these repositories I share learning examples:
+  - 
 
 Let's Connect
 -------------
