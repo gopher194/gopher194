@@ -1,8 +1,8 @@
-Emmanuel Bergerat
+# Emmanuel Bergerat
 ==============
 
 Hi! I'm Emmanuel Bergerat.
-I’m a hands-on Cloud Architect & Engineer who enjoys coding & innovation with everything IT.
+I’m a hands-on Technical Specialist at Microsoft who enjoys coding, learning & innovation with everything IT.
 I am a passionate learner.
 Few of these repositories share learning examples.
 
