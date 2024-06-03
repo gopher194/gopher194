@@ -1,4 +1,4 @@
-### Hi! I'm Emmanuel Bergerat.
+## Hi! I'm Emmanuel Bergerat.
 - I’m a hands-on App Innovation Technical Specialist at Microsoft who enjoys coding, learning & innovation with everything IT.
 - Current top skills are around:
   - Azure Kubernetes Service (AKS) ([AKS Overview](https://learn.microsoft.com/en-us/azure/aks/what-is-aks))
