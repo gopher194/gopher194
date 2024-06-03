@@ -20,6 +20,11 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub Emmanuel" />](https://github.com/gopher194/)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn Emmanuel" />](https://www.linkedin.com/in/emmanuelbergerat/)
 
+### Diplomas
+
+
+### Technical Certifications
+
 
 <!--
 ### Hi there 👋
