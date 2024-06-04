@@ -20,7 +20,7 @@
 
 ### Diplomas
 
-- June 1994: Engineering diploma in Mechanical and Industrial Engineering from IUT de Saint-Étienne, France (Bachelor equivalent)
+- June 1994: Engineering diploma in Mechanical and Industrial Engineering from IUT de Saint-Étienne, France (Bachelor equivalent) (now called BUT Génie Mécanique et Productique - GMP)
 - September 1998: Diplome d'Ingenieur from L’École nationale supérieure d’arts et métiers (ENSAM) ParisTech, France (Masters of Science equivalent)
 
 ### Microsoft Technical Certifications
