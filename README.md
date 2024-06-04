@@ -17,8 +17,6 @@
   - [My GitHub organization to share code and projects](https://github.com/embergershared)
   - [My GitHub organization with work-in-progress terraform modules for Azure](https://github.com/embergertf)
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub Emmanuel" />](https://github.com/gopher194/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn Emmanuel" />](https://www.linkedin.com/in/emmanuelbergerat/)
 
 ### Diplomas
 
@@ -36,6 +34,10 @@
 -	AZ-900: Microsoft Azure Fundamentals
 -	AZ-103: Microsoft Azure Administrator
 -	AZ-400: Microsoft DevOps Engineer
+
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub Emmanuel" />](https://github.com/gopher194/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn Emmanuel" />](https://www.linkedin.com/in/emmanuelbergerat/)
 
 <!--
 ### Hi there 👋
