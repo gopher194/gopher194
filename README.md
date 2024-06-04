@@ -22,9 +22,20 @@
 
 ### Diplomas
 
+- June 1994: Engineering diploma in Mechanical and Industrial Engineering from IUT de Saint-Étienne, France (Bachelor equivalent)
+- September 1998: Diplome d'Ingenieur from L’École nationale supérieure d’arts et métiers (ENSAM) ParisTech, France (Masters of Science equivalent)
 
-### Technical Certifications
+### Microsoft Technical Certifications
 
+-	70-541: Windows SharePoint v3 Application development
+-	70-542: Office SharePoint Server 2007 Application development
+-	70-630: Configuring Office SharePoint Server 2007
+-	70-631: Configuring Windows SharePoint Services v3
+-	70-290: Managing & maintaining a Windows Server 2003 environment
+-	70-534: Architecting Microsoft Azure Solutions
+-	AZ-900: Microsoft Azure Fundamentals
+-	AZ-103: Microsoft Azure Administrator
+-	AZ-400: Microsoft DevOps Engineer
 
 <!--
 ### Hi there 👋
