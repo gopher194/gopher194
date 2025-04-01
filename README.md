@@ -34,6 +34,7 @@
 -	AZ-900: Microsoft Azure Fundamentals
 -	AZ-103: Microsoft Azure Administrator
 -	AZ-400: Microsoft DevOps Engineer
+-	AZ-204: Azure Developer Associate
 
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub Emmanuel" />](https://github.com/gopher194/)
