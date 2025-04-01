@@ -1,5 +1,7 @@
-## Hi! I'm Emmanuel Bergerat.
+# Hi! I'm Emmanuel Bergerat
+
 - I’m a hands-on App Innovation Technical Specialist at Microsoft who enjoys coding, learning & innovation with everything IT.
+
 - Current top skills are around:
   - Azure Kubernetes Service (AKS) ([AKS Overview](https://learn.microsoft.com/en-us/azure/aks/what-is-aks))
   - Azure Container Apps (ACA) ([ACA Overview](https://learn.microsoft.com/en-us/azure/container-apps/overview))
@@ -17,26 +19,23 @@
   - [My GitHub organization to share code and projects](https://github.com/embergershared)
   - [My GitHub organization with work-in-progress terraform modules for Azure](https://github.com/embergertf)
 
-
-### Diplomas
+## Diplomas
 
 - June 1994: Engineering diploma in Mechanical and Industrial Engineering from [IUT de Saint-Étienne](https://www.iut.univ-st-etienne.fr/fr/etudier-a-l-iut-de-saint-etienne/nos-formations/les-b-u-t/b-u-t-genie-mecanique-et-productique.html), France (Bachelor equivalent) (now called BUT Génie Mécanique et Productique - GMP)
 - September 1998: Diplome d'Ingenieur from L’[École nationale supérieure d’arts et métiers (ENSAM) ParisTech](https://www.artsetmetiers.fr/en), France (Masters of Science equivalent)
 
-### Microsoft Technical Certifications
+## Microsoft Technical Certifications
 
--	70-541: Windows SharePoint v3 Application development
--	70-542: Office SharePoint Server 2007 Application development
--	70-630: Configuring Office SharePoint Server 2007
--	70-631: Configuring Windows SharePoint Services v3
--	70-290: Managing & maintaining a Windows Server 2003 environment
--	70-534: Architecting Microsoft Azure Solutions
--	AZ-900: Azure Fundamentals
--	AZ-103: Azure Administrator Assocaite
--	AZ-204: Azure Developer Associate
--	AZ-400: DevOps Engineer Expert
-
-
+- 70-541: Windows SharePoint v3 Application development
+- 70-542: Office SharePoint Server 2007 Application development
+- 70-630: Configuring Office SharePoint Server 2007
+- 70-631: Configuring Windows SharePoint Services v3
+- 70-290: Managing & maintaining a Windows Server 2003 environment
+- 70-534: Architecting Microsoft Azure Solutions
+- AZ-900: Azure Fundamentals
+- AZ-103: Azure Administrator Associate
+- AZ-204: Azure Developer Associate
+- AZ-400: DevOps Engineer Expert
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub Emmanuel" />](https://github.com/gopher194/)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn Emmanuel" />](https://www.linkedin.com/in/emmanuelbergerat/)
