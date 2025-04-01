@@ -31,10 +31,11 @@
 -	70-631: Configuring Windows SharePoint Services v3
 -	70-290: Managing & maintaining a Windows Server 2003 environment
 -	70-534: Architecting Microsoft Azure Solutions
--	AZ-900: Microsoft Azure Fundamentals
--	AZ-103: Microsoft Azure Administrator
--	AZ-400: Microsoft DevOps Engineer
+-	AZ-900: Azure Fundamentals
+-	AZ-103: Azure Administrator Assocaite
 -	AZ-204: Azure Developer Associate
+-	AZ-400: DevOps Engineer Expert
+
 
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub Emmanuel" />](https://github.com/gopher194/)
