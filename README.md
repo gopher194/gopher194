@@ -41,11 +41,11 @@
 ## Few past experiences
 
 - From 1997 to 1999: New logistics system Program Manager at Citroen Belgium/Luxembourg, Brussels, Belgium
-- From 1999 to 2001: Quality Process and Certification Advisor at BMW Group France, Paris, France
-- From 2001 to 2004: New Dealerships ERP System Project Manager at BMW Group France, Paris, France
-- From 2004 to 2006: Microsoft Dynamics NAV & AX ERP Consultant at Microsoft EMEA, Paris, France
+- From 1999 to 2001: Quality Process and Certification Advisor at BMW Group France, Paris,
+- From 2001 to 2004: New Dealerships ERP System Program Manager at BMW Group France, Paris, France
+- From 2004 to 2006: Microsoft Dynamics NAV & AX ERP Consultant at Microsoft EMEA (Europe), Paris, France
 - From 2006 to 2010: Microsoft SharePoint Senior Consultant at Microsoft France, Paris, France
-- In 2010: SharePoint Online Engineering internal contributor at Microsoft Redmond, USA
+- In 2010: SharePoint Online Engineering internal contributor at Microsoft
 - From 2011 to 2016: Microsoft SharePoint Senior Consultant at Microsoft Canada, Montreal, Canada
 - From 2016 to 2022: Microsoft Azure Senior Consultant at Microsoft Canada, Montreal, Canada
 - From 2022 to 2023: Microsoft Senior Cloud Solution Architect App Innovation at Microsoft USA, Tampa, FL, USA
