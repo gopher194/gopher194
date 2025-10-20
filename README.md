@@ -2,7 +2,7 @@
 
 - I’m a hands-on Senior Solution Engineer AI Apps at Microsoft US, in the Oil, Gas & Energy group, who enjoys coding, learning & innovation with everything IT. I love to solve problems and help customers to succeed in their digital transformation journey, leveraging the latest technologies around Cloud, AI and DevOps.
 
-- Current top skills are around:
+- Current top skills include:
   - Azure Kubernetes Service (AKS) ([AKS Overview](https://learn.microsoft.com/en-us/azure/aks/what-is-aks))
   - Azure Container Apps (ACA) ([ACA Overview](https://learn.microsoft.com/en-us/azure/container-apps/overview))
   - Private deployment in Azure of:
