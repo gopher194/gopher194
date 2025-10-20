@@ -49,8 +49,8 @@
 - From 2011 to 2016: Microsoft SharePoint Senior Consultant at Microsoft Canada, Montreal, Canada
 - From 2016 to 2022: Microsoft Azure Senior Consultant at Microsoft Canada, Montreal, Canada
 - From 2022 to 2023: Microsoft Senior Cloud Solution Architect App Innovation at Microsoft USA, Tampa, FL, USA
-- From 2022 to 2023: Microsoft Senior Technical Specialist App Innovation at Microsoft USA, Tampa, FL, USA
-- From 2023 to now: Microsoft Senior Solution Engineer AI Apps at Microsoft USA, Tampa, FL, USA
+- From 2023 to 2025: Microsoft Senior Technical Specialist App Innovation at Microsoft USA, Tampa, FL, USA
+- From 2025 to now: Microsoft Senior Solution Engineer AI Apps at Microsoft USA, Tampa, FL, USA
 
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub Emmanuel" />](https://github.com/gopher194/)
