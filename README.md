@@ -8,8 +8,8 @@
   - Private deployment in Azure of:
     - Infrastructures
     - Applications on Azure
-    - AI applications and use cases
     - Private Chat and Artificial Intelligence workloads
+    - AI applications and use cases
   - Azure DevOps (ADO) ([Azure DevOps](https://azure.microsoft.com/en-us/products/devops#overview))
   - terraform ([Terraform by HashiCorp](https://www.terraform.io/))
   - GitHub ([GitHub](https://github.com/))
